@@ -14,3 +14,9 @@ The point: reduce risk by moving in steps and checking quality at each stage.
 - **Test**: CI runs tests/lints on every push/PR
 - **Deploy**: CD can auto-promote a green build
 - **Maintain**: logs/metrics show issues so we fix quickly
+
+## My Example from this Project
+Branch: `101360798-MelicaAlikhaniMarqueti`. I committed in small steps, opened a PR, and waited for CI to go green before merging.
+
+### Wrap-up
+Learning DevOps in the SDLC trained me to ship small, tested changes. That rhythm is what real teams expect.
