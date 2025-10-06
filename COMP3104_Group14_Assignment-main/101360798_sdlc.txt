@@ -1,4 +1,4 @@
 Student ID: 101360798
 File: 101360798_devops.txt
-Title: COMP3104 – DevOps (Course Summary)
+Title: COMP3104 – DevOps in the SDLC — Why It Matters
 Date: 2025-10-06
