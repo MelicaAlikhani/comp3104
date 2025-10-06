@@ -2,3 +2,8 @@ Student ID: 101360798
 File: 101360798_devops.txt
 Title: COMP3104 – DevOps in the SDLC — Why It Matters
 Date: 2025-10-06
+
+SDLC in one line :
+Plan → Design → Implement → Test → Deploy → Maintain.
+
+The point: reduce risk by moving in steps and checking quality at each stage.
