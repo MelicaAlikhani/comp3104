@@ -2,3 +2,6 @@ Student ID: 101360798
 File: 101360798_devops.txt
 Title: COMP3104 – DevOps (Course Summary)
 Date: 2025-10-06
+
+What DevOps Means (student version) :
+DevOps = dev + ops working together, with automation, so changes ship faster and safer. The key idea is *small changes + constant feedback*.
