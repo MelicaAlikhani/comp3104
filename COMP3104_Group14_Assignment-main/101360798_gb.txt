@@ -11,3 +11,11 @@ Downtown location + hands-on courses were the main reasons. It’s easy to commu
 - **D2L Brightspace**: announcements, grades, due dates.
 - **MyGB**: registration and official docs.
 - **Git & GitHub**: almost every programming subject uses these now.
+
+## Student Services that Helped Me
+- Tutoring/Learning Centres for tricky courses
+- Library resources (software access + quiet rooms)
+- Career Centre for resume/cover-letter advice
+
+### Reflection
+The mix of labs and quick feedback fits how I learn. Group projects feel closer to real teamwork.
