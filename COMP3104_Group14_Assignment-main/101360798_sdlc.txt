@@ -7,3 +7,10 @@ SDLC in one line :
 Plan → Design → Implement → Test → Deploy → Maintain.
 
 The point: reduce risk by moving in steps and checking quality at each stage.
+
+## Where DevOps plugs into each stage
+- **Plan/Design**: small tickets; acceptance criteria clear
+- **Implement**: feature branches; frequent commits; code reviews
+- **Test**: CI runs tests/lints on every push/PR
+- **Deploy**: CD can auto-promote a green build
+- **Maintain**: logs/metrics show issues so we fix quickly
