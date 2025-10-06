@@ -5,3 +5,8 @@ Date: 2025-10-06
 
 What DevOps Means (student version) :
 DevOps = dev + ops working together, with automation, so changes ship faster and safer. The key idea is *small changes + constant feedback*.
+
+## Tools We Used/Discussed
+- **Git & GitHub** for version control and Pull Requests
+- **GitHub Actions** for CI (runs on every push/PR)
+- **Docker** concept for consistent environments (even if basic)
